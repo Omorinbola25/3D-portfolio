@@ -122,7 +122,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2024 - Present",
     points: [
-      "I'm currently working as a Web Developer at a tech company, where I build and maintain responsive, user-friendly web applications. I mostly work with React, JavaScript, HTML, and CSS to create clean interfaces and improve user experience. I collaborate closely with designers and other developers, handle bug fixes, and integrate APIs to bring ideas to life. Being part of a real development team has helped me grow and sharpen my skills every day.",
+      "I'm currently working as a Web Developer at SBSC, where I build and maintain responsive, user-friendly web applications. I mostly work with React, JavaScript, HTML, and CSS to create clean interfaces and improve user experience. I collaborate closely with designers and other developers, handle bug fixes, and integrate APIs to bring ideas to life. Being part of a real development team has helped me grow and sharpen my skills every day.",
     ],
   },
   {
